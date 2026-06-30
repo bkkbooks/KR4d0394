@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0394/WYG/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 拾
+  hash: sha256:7a843a5e71ad2d1e20768506d8049a9e1488d746a96ab0d79d21bd17573062b6
+metadata:
+  title: 莆陽黄仲元四如先生文藁
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 01:23:25.408092'
+  source:
+    repository: kanripo
+    path: KR4d0394/KR4d0394_005.txt
+hash: sha256:f611451b70b63f314b4fdc696811f6a57ec810c36c1b9b67e7f4e801269fe2f0
