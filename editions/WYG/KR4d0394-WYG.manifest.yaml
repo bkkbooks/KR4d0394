@@ -26,12 +26,12 @@ assets:
   - {seq: 6, filename: KR4d0394_006-WYG.yaml, hash: 'sha256:add473e23345ba3e39fa57b12aa9a4d44b85874b3f53c769ca7b6de41a677c0d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR4d0394_000-WYG.markers.yaml, hash: 'sha256:9b522df01042345e35539b6bde6d710a7e8a0303e3043d20ce35ebfe5ce28cf6'}
-  - {seq: 1, role: markers, filename: assets/KR4d0394_001-WYG.markers.yaml, hash: 'sha256:a857e667753568987e8af75eda8153e4f517f4f47eed18af07e5f1e78df4973f'}
-  - {seq: 2, role: markers, filename: assets/KR4d0394_002-WYG.markers.yaml, hash: 'sha256:fd50c2f0887fe1dd24c6224b95cf38a7a3a9c094cc017e2dc84551401f962400'}
-  - {seq: 3, role: markers, filename: assets/KR4d0394_003-WYG.markers.yaml, hash: 'sha256:b1a208eb907b5d87d87a6b932ee7b09a48f064f53f73146368a70fbe83c72c9a'}
-  - {seq: 4, role: markers, filename: assets/KR4d0394_004-WYG.markers.yaml, hash: 'sha256:8b34e65054bcbc8994220ef74fb379a9ad3ef8d7617908f23c100b4fbb8c713b'}
+  - {seq: 1, role: markers, filename: assets/KR4d0394_001-WYG.markers.yaml, hash: 'sha256:2ec210c75839f6daed64ff19ddffe908df7b6a9f33f4324a26efda62b5506b65'}
+  - {seq: 2, role: markers, filename: assets/KR4d0394_002-WYG.markers.yaml, hash: 'sha256:4f3f50e18df9d5ffd60d95779a6f97fe1b31dc839a5e9c128410a5d35645fbdb'}
+  - {seq: 3, role: markers, filename: assets/KR4d0394_003-WYG.markers.yaml, hash: 'sha256:f1fd6fbce4f49ccd59e5382955b702bdcb1339557d32a1eacc545e7e50cdf1d3'}
+  - {seq: 4, role: markers, filename: assets/KR4d0394_004-WYG.markers.yaml, hash: 'sha256:bd0e7d164545e006b92d7e3f47f65062687d11b63357b557c88847f3f98f6c4b'}
   - {seq: 5, role: markers, filename: assets/KR4d0394_005-WYG.markers.yaml, hash: 'sha256:f322f802869883903ab73227eeaa8e2c7e6a72ae92028295a24954bd9dec5381'}
-  - {seq: 6, role: markers, filename: assets/KR4d0394_006-WYG.markers.yaml, hash: 'sha256:b91e33b5ed5522a3cfe48f7aa403107da7840b9766de9fde3badccb18a02d7b4'}
+  - {seq: 6, role: markers, filename: assets/KR4d0394_006-WYG.markers.yaml, hash: 'sha256:eb6359ee27f4e3dbd3b8c5a82201510fde0e8ec4ce022f1b0cb7033f8a5c6d07'}
 table_of_contents:
 - ref:
     seq: 0
@@ -103,4 +103,4 @@ table_of_contents:
   label: juan 006
   type: section
   level: 1
-hash: sha256:c6e44ff3672eb061744eb8fb35a3f1e4d95927827d2f60fd9bb948eee69318d5
+hash: sha256:2bac61761211430f93b1a6c7da1dde8e01e882bb815d448b2ad97c07ffbebbcd
