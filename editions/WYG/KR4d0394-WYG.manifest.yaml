@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR4d0394_000-WYG.yaml, hash: 'sha256:930745b4176fe0c2e1437e2f117813bbb7ef832fe71e54bb7b0fa05561a2c598'}
   - {seq: 1, filename: KR4d0394_001-WYG.yaml, hash: 'sha256:40fd65ca2abc6c19c2a2f30434fb5d527438ce67619feb2adb3f7bf635f2041b'}
-  - {seq: 2, filename: KR4d0394_002-WYG.yaml, hash: 'sha256:234bb16801dbda16094b62b0f14f9c6bde4e269c1048183e78871cd1b5d11c60'}
+  - {seq: 2, filename: KR4d0394_002-WYG.yaml, hash: 'sha256:be7f65254935e1d7c8a9864a42bec7003659e7967200a2a998fdbb6f20595338'}
   - {seq: 3, filename: KR4d0394_003-WYG.yaml, hash: 'sha256:f9903d219562a7deaf9841f195b1b3abbc18f024846e1b67091b7b8b21609329'}
   - {seq: 4, filename: KR4d0394_004-WYG.yaml, hash: 'sha256:b0a0fc6af8f6008b1e028cf57c09b016f0f2ef11c4406f452cc489a4043233ba'}
   - {seq: 5, filename: KR4d0394_005-WYG.yaml, hash: 'sha256:f611451b70b63f314b4fdc696811f6a57ec810c36c1b9b67e7f4e801269fe2f0'}
@@ -27,7 +27,7 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR4d0394_000-WYG.markers.yaml, hash: 'sha256:9b522df01042345e35539b6bde6d710a7e8a0303e3043d20ce35ebfe5ce28cf6'}
   - {seq: 1, role: markers, filename: assets/KR4d0394_001-WYG.markers.yaml, hash: 'sha256:2ec210c75839f6daed64ff19ddffe908df7b6a9f33f4324a26efda62b5506b65'}
-  - {seq: 2, role: markers, filename: assets/KR4d0394_002-WYG.markers.yaml, hash: 'sha256:4f3f50e18df9d5ffd60d95779a6f97fe1b31dc839a5e9c128410a5d35645fbdb'}
+  - {seq: 2, role: markers, filename: assets/KR4d0394_002-WYG.markers.yaml, hash: 'sha256:5088029305dca61d6e0412201329f094a10116d676d23189ac666227c02f5e75'}
   - {seq: 3, role: markers, filename: assets/KR4d0394_003-WYG.markers.yaml, hash: 'sha256:f1fd6fbce4f49ccd59e5382955b702bdcb1339557d32a1eacc545e7e50cdf1d3'}
   - {seq: 4, role: markers, filename: assets/KR4d0394_004-WYG.markers.yaml, hash: 'sha256:bd0e7d164545e006b92d7e3f47f65062687d11b63357b557c88847f3f98f6c4b'}
   - {seq: 5, role: markers, filename: assets/KR4d0394_005-WYG.markers.yaml, hash: 'sha256:f322f802869883903ab73227eeaa8e2c7e6a72ae92028295a24954bd9dec5381'}
@@ -58,8 +58,8 @@ table_of_contents:
     marker_id: KR4d0394_WYG_003-1b
     span:
     - body
-    - 0
-    - 8991
+    - 510
+    - 9501
   label: juan 002
   type: section
   level: 1
@@ -103,4 +103,4 @@ table_of_contents:
   label: juan 006
   type: section
   level: 1
-hash: sha256:2bac61761211430f93b1a6c7da1dde8e01e882bb815d448b2ad97c07ffbebbcd
+hash: sha256:aa754c1190e948e372430716ac75f73594cc70a5d4a5342ab4d785b623178b40
